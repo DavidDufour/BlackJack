@@ -1,0 +1,287 @@
+[2J[0;0HPlease enter the number of decks to be played with: [2J[0;0HPlease enter the minimum bet in chips for this game: [2J[0;0HPlayer starts with 100 chips.
+
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 21: 
+Ace of Spades
+King of Spades
+
+Dealer's hand with value 10: 
+Queen of Hearts
+Dealer has a card of unknown value
+
+Blackjack! Player recieves 12 chips and now has 107 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 21: 
+Ace of Spades
+King of Spades
+
+Dealer's hand with value 11: 
+Ace of Hearts
+Dealer has a card of unknown value
+
+[2J[0;0HPlayer's hand with value 21: 
+Ace of Spades
+King of Spades
+
+Dealer's hand with value 21: 
+Ace of Hearts
+King of Hearts
+
+Blackjack! Player has tied the dealer and now has 107 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 20: 
+Queen of Spades
+King of Spades
+
+Dealer's hand with value 11: 
+Ace of Hearts
+Dealer has a card of unknown value
+
+[2J[0;0HPlayer's hand with value 20: 
+Queen of Spades
+King of Spades
+
+Dealer's hand with value 21: 
+Ace of Hearts
+King of Hearts
+
+The dealer has hit a blackjack! Player loses and now has 90 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 14: 
+4 of Spades
+King of Spades
+
+Dealer's hand with value 10: 
+Queen of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+[2J[0;0HPlayer's hand with value 18: 
+4 of Spades
+King of Spades
+4 of Diamonds
+
+Dealer's hand with value 10: 
+Queen of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+[2J[0;0HPlayer's hand with value 18: 
+4 of Spades
+King of Spades
+4 of Diamonds
+
+Dealer's hand with value 17: 
+Queen of Hearts
+7 of Hearts
+
+Player wins and recieves 20 chips and now has 100 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 19: 
+Ace of Spades
+8 of Spades
+
+Dealer's hand with value 10: 
+Jack of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+[2J[0;0HPlayer's hand with value 20: 
+Ace of Spades
+8 of Spades
+Ace of Diamonds
+
+Dealer's hand with value 10: 
+Jack of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+[2J[0;0HPlayer's hand with value 20: 
+Ace of Spades
+8 of Spades
+Ace of Diamonds
+
+Dealer's hand with value 20: 
+Jack of Hearts
+King of Hearts
+
+Player has tied the dealer and stays at 100 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 12: 
+Queen of Spades
+2 of Spades
+
+Dealer's hand with value 10: 
+Jack of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+[2J[0;0HPlayer's hand with value 15: 
+Queen of Spades
+2 of Spades
+3 of Diamonds
+
+Dealer's hand with value 10: 
+Jack of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+[2J[0;0HPlayer's hand with value 15: 
+Queen of Spades
+2 of Spades
+3 of Diamonds
+
+Dealer's hand with value 20: 
+Jack of Hearts
+King of Hearts
+
+Dealer wins and the player now has 80 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 20: 
+Jack of Spades
+King of Spades
+
+Dealer's hand with value 10: 
+Queen of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+[2J[0;0HPlayer's hand with value 20: 
+Jack of Spades
+King of Spades
+
+Dealer's hand with value 18: 
+Queen of Hearts
+8 of Hearts
+
+Player wins and recieves 20 chips and now has 90 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 20: 
+Jack of Spades
+King of Spades
+
+Dealer's hand with value 10: 
+Jack of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+[2J[0;0HPlayer's hand with value 20: 
+Jack of Spades
+King of Spades
+
+Dealer's hand with value 20: 
+Jack of Hearts
+King of Hearts
+
+Player has tied the dealer and stays at 90 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 16: 
+8 of Spades
+8 of Spades
+
+Dealer's hand with value 9: 
+9 of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+[2J[0;0HPlayer's hand with value 16: 
+8 of Spades
+8 of Spades
+
+Dealer's hand with value 18: 
+9 of Hearts
+9 of Hearts
+
+Dealer wins and the player now has 40 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 14: 
+4 of Spades
+King of Spades
+
+Dealer's hand with value 10: 
+Queen of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+Please enter the amount of additional chips you would like to bet: [2J[0;0HPlayer's hand with value 18: 
+4 of Spades
+King of Spades
+4 of Diamonds
+
+Dealer's hand with value 17: 
+Queen of Hearts
+7 of Hearts
+
+Player wins and recieves 40 chips and now has 60 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 19: 
+Ace of Spades
+8 of Spades
+
+Dealer's hand with value 10: 
+Jack of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+Please enter the amount of additional chips you would like to bet: [2J[0;0HPlayer's hand with value 20: 
+Ace of Spades
+8 of Spades
+Ace of Diamonds
+
+Dealer's hand with value 20: 
+Jack of Hearts
+King of Hearts
+
+Player has tied the dealer and stays at 60 chips.
+Please enter the amount of chips you would like to bet this hand (you may quit by making a bet of 0 chips): [2J[0;0H[2J[0;0HPlayer's hand with value 12: 
+Queen of Spades
+2 of Spades
+
+Dealer's hand with value 10: 
+Jack of Hearts
+Dealer has a card of unknown value
+
+What would you like to do? Please enter a number corresponding to an action.
+(1) Hit
+(2) Stand
+(3) Double down
+(4) Surrender
+Please enter the amount of additional chips you would like to bet: [2J[0;0HPlayer's hand with value 15: 
+Queen of Spades
+2 of Spades
+3 of Diamonds
+
+Dealer's hand with value 20: 
+Jack of Hearts
+King of Hearts
+
+Dealer wins and the player now has 0 chips.
+Player does not have enough chips to make the minimum bet of 1 chips.
+Thank you for playing, please gamble responsibly.

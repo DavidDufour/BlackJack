@@ -1,0 +1,15 @@
+./blackjack
+test to see if testOutput.txt is the same as testOutput.test
+input file format:
+1
+1
+<number of cards>
+	<card suit>
+	<card rank>
+	<card value>
+	...
+<bet>
+<decision>
+...
+0
+./blackjack debug < testInput.test > testOutput.txt
